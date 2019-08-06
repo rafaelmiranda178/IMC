@@ -15,4 +15,5 @@
     <string name="hint_resultado">20,1</string>
     <string name="hint_resultado_mensagem">Peso Ideal</string>
     <string name="desenvolvido_por_rafael">Desenvolvido por Rafael</string>
+    <string name="abaixo_peso">Abaixo do peso</string>
 </resources>
