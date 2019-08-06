@@ -59,6 +59,7 @@
             android:layout_marginTop="24dp"
             android:textSize="20sp" app:layout_constraintEnd_toEndOf="@+id/edtAltura" style="@style/label_formulario"/>
     <Spinner
+            android:entries="@array/sexos"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/spnSexo"

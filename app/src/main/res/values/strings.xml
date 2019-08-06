@@ -8,4 +8,11 @@
     <string name="hint_peso">Ex: 88,5 kg</string>
     <string name="hint_altura">Ex: 1,85 m</string>
     <string name="sexo">Sexo</string>
+
+    <string name="hint_sexo">Selecione o sexo</string>
+    <string name="label_feminino">Feminino</string>
+    <string name="label_masculino">Masculino</string>
+    <string name="hint_resultado">20,1</string>
+    <string name="hint_resultado_mensagem">Peso Ideal</string>
+    <string name="desenvolvido_por_rafael">Desenvolvido por Rafael</string>
 </resources>
