@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sexos">
+        <item>Selecione o sexo</item>
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+
+</resources>
